@@ -1,0 +1,88 @@
+img {
+   
+    border: 3px solid white;
+;
+    width: 190px;
+height: 170px;
+}
+
+body {
+background-color: #77a5e9;
+}
+
+h1 {
+    text-transform: uppercase;
+    font-family: cursive;
+    border: 3px solid white;
+    text-align: center;
+background-color:  #99c2ff;
+color: white;
+}
+
+.pop {
+    color: #185dad;
+    font-family: Gill Sans;
+border: 2px solid white;
+background-color:  #96c3f7;
+font-size: 20px;
+
+}
+
+i {
+border: 2px solid white;
+background-color: #cce0ff;
+color: #185dad;
+}
+
+.par{
+    font-family: Bradley Hand;
+    background-color: #cce0ff;
+    font-size: 19px;
+    color: #185dad;
+}
+
+.rap{
+font-family: Bradley Hand;
+    background-color: #cce0ff;
+    font-size: 23px;
+    color: #185dad;
+}
+
+.noski{
+color: #ffffff;
+font-size: 40px;
+font-family:Bradley Hand;
+text-align:left;
+}
+
+.soda{
+color: #ffffff;
+font-size: 40px;
+font-family:Bradley Hand;
+text-align:left;
+
+}
+
+.foto{
+border-radius: 100px;
+border: 3px solid rgb(46, 118, 185);
+box-shadow: 0 0 7px #375ea7;
+}
+
+.zru{
+color: #ffffff;
+font-size: 40px;
+font-family:Bradley Hand;
+text-align:left;
+
+}
+.noska{
+border-radius: 100px;
+border: 3px solid rgb(46, 118, 185);
+box-shadow: 0 0 7px #375ea7;
+}
+
+a {
+color: white;
+font-size: 20px;
+}
